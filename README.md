@@ -10,11 +10,11 @@ Control the Raspberry Pi's GPIOs in your web browser using a web page hosted on 
 * and more...  
 
 Screenshot  GPIO Control  
-![screenshot](screenshots/screenshot_gpio_control.png)  
+![screenshot](/screenshots/screenshot_gpio_control.png)  
 Screenshot  Settings   
-![screenshot](screenshots/screenshot_settings.png)  
+![screenshot](/screenshots/screenshot_settings.png)  
 Screenshot  Site   
-![screenshot](screenshots/screenshot_site.png)
+![screenshot](/screenshots/screenshot_site.png)
 
 
 
