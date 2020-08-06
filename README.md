@@ -33,5 +33,5 @@ instructions from [raspberrypi.org](https://www.raspberrypi.org/documentation/re
 ## How it works
 For this project PHP, JavaScript, JQuery and Ajax were used.  
 PHP executes commands from Wiring pi in the console of the Raspberry Pi.  
-The console commands of Wiring pi can control the GPIOs. 
+The console commands of Wiring pi can control the GPIOs.  
 *It is my first public project :)*
