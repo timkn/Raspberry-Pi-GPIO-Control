@@ -36,4 +36,4 @@ PHP executes commands from Wiring pi in the console of the Raspberry Pi.
 The console commands of Wiring pi can control the GPIOs.  
 
 
-*It is my first public project * :wave:
+*It is my first public project* :wave:
