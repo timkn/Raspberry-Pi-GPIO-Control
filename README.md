@@ -8,7 +8,6 @@ Control the Raspberry Pi's GPIOs in your web browser using a web page hosted on 
 * Attractive and nice design
 * Website optimized for mobile
 * and more...  
-:framed_picture:
 ## Screenshots
 Screenshot  GPIO Control  
 ![screenshot](/docs/screenshot_gpio_control.PNG)  
@@ -37,4 +36,4 @@ PHP executes commands from Wiring pi in the console of the Raspberry Pi.
 The console commands of Wiring pi can control the GPIOs.  
 
 
-*It is my first public project :)* :wave:
+*It is my first public project * :wave:
