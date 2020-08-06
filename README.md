@@ -8,7 +8,8 @@ Control the Raspberry Pi's GPIOs in your web browser using a web page hosted on 
 * Attractive and nice design
 * Website optimized for mobile
 * and more...  
-
+:framed_picture:
+## Screenshots
 Screenshot  GPIO Control  
 ![screenshot](/docs/screenshot_gpio_control.PNG)  
 Screenshot  Settings   
@@ -24,7 +25,7 @@ Screenshot  Site
 * Install PHP on the Raspberry Pi and the web server must support PHP
 * Install WiringPi on the Raspberry Pi (sometimes already preinstalled)
 * use Raspberry Pi OS (Raspbian)
-* JavaScript must be activated on the website  
+* :warning: JavaScript must be activated on the website  
 
 instructions from [raspberrypi.org](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md) 
 
@@ -34,4 +35,6 @@ instructions from [raspberrypi.org](https://www.raspberrypi.org/documentation/re
 For this project PHP, JavaScript, JQuery and Ajax were used.  
 PHP executes commands from Wiring pi in the console of the Raspberry Pi.  
 The console commands of Wiring pi can control the GPIOs.  
-*It is my first public project :)*
+
+
+*It is my first public project :)* :wave:
