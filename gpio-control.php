@@ -389,7 +389,7 @@ function setGPIOState($gpio, $state)
                 <a class="p-card-view-item" href="https://www.raspberrypi.org/documentation/usage/gpio/README.md">https://www.raspberrypi.org/documentation/usage/gpio/README.md</a>
             </div>
             <div class="card-view-item padding-med">
-                <p class="light">Host this page on a web server on the Raspberry Pi (e.g. Apache2) <br>
+                <p class="light">Host this page on a web server on the Raspberry Pi (e.g. Apache) <br>
                     Install PHP on the Raspberry Pi and the web server must support PHP <br>
                     Install WiringPi on the Raspberry Pi <br>
                     use Raspberry Pi OS (Raspbian) <br>
