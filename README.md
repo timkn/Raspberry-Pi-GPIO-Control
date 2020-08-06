@@ -1,10 +1,10 @@
-# Raspberry-Pi-GPIO-Control
+# Raspberry Pi GPIO control in web browser
 Control the Raspberry Pi's GPIOs in your web browser using a web page hosted on the Raspberry Pi.  
 
 **Control** and **view** the current state of all **GPIOs** of the Raspberry Pi in a **web browser**, using a specially designed **website**.
 This website can be **accessed** from **any device on the same network** as the Raspberry Pi. Under the domain: *http://raspberrypi/gpio-control.php*
 
-## Features
+## Featuresn c
 * See the status of each GPIO
 * Set all GPIOs to high and low
 * Dark Mode
