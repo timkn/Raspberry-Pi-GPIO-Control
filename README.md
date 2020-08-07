@@ -38,8 +38,8 @@ Screenshot  website
 * Install the PHP module for the Apache Web Server
 * Copy the files *gpio-control.php* and *gpio-control-style.css* into the *html* folder
 * Under the domain *http://raspberrypi/gpio-control.php* you can access the website.  
-**[Simple guide from raspberrypi.org to install Apache, PHP and the PHP module, for Apache2](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)** 
-[guide on github](https://github.com/raspberrypi/documentation/blob/master/remote-access/web-server/apache.md)
+**[Simple guide from raspberrypi.org to install Apache, PHP and the PHP module, for Apache2](https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md)**   
+**[Guide on github](https://github.com/raspberrypi/documentation/blob/master/remote-access/web-server/apache.md)   **
 
 [GPIO pin numbering for these Raspberry Pi models](https://www.raspberrypi.org/documentation/usage/gpio/README.md)
 
