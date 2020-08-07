@@ -13,10 +13,12 @@ This website can be **accessed** from **any device on the same network** as the 
 * and more...  
 ## Screenshots
 Screenshot  GPIO Control  
-![screenshot](/docs/screenshot_gpio_control.PNG)  
+![screenshot](/docs/screenshot_gpio_control.PNG)   
+
 Screenshot  Settings   
 ![screenshot](/docs/screenshot_settings.PNG)  
-Screenshot  Site   
+
+Screenshot  website   
 ![screenshot](/docs/screenshot_site.PNG)
 
 
