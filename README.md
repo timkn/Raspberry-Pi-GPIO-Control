@@ -4,6 +4,9 @@ Control the Raspberry Pi's GPIOs in your web browser using a web page hosted on 
 **Control** and **view** the current state of all **GPIOs** of the Raspberry Pi in a **web browser**, using a specially designed **website**.
 This website can be **accessed** from **any device on the same network** as the Raspberry Pi. 
 
+**[Showcase on YouTube](https://youtu.be/i_9cGl9QYVU)**
+
+
 ## Features
 * See the status of each GPIO
 * Set all GPIOs to high and low
